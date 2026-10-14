@@ -1,0 +1,8 @@
+{
+  "name": "糖心投屏 - MimiCast",
+  "description": "可爱的马卡龙拟物风同屏接收端，支持局域网WiFi低延迟互投及Type-C转HDMI外接显示屏输出",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

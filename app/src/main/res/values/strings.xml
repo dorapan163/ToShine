@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">糖心投屏</string>
+    <string name="receiver_title">MimiCast 糖心接收端</string>
+    <string name="status_waiting">等待设备连接中…</string>
+    <string name="status_connected">正在同步显示画面</string>
+    <string name="status_disconnected">已断开连接</string>
+    <string name="hdmi_connected">Type-C / HDMI 外接显示器已就绪</string>
+    <string name="hdmi_disconnected">未检测到外接显示设备</string>
+    <string name="start_receiver">开启接收服务</string>
+    <string name="stop_receiver">暂停接收服务</string>
+</resources>
